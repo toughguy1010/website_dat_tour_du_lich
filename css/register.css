@@ -1,0 +1,19 @@
+.input-register {
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.btn {
+    margin-left: 600px;
+    border-radius: 15px;
+    min-width: 300px;
+}
+
+.btn:hover {
+    color: deepskyblue
+}
+
+.register-form {
+    background-color: rgb(74, 128, 160);
+}
